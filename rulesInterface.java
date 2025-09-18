@@ -1,4 +1,3 @@
-public interface rulesInterface {
-    void displayRules();
+public interface RulesInterface {
     
 }
